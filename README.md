@@ -37,13 +37,6 @@ The analysis covers the full workflow — from **data cleaning, exploratory data
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
-- Understanding data distribution  
-- Identifying trends and patterns  
-- Detecting outliers and anomalies  
-
----
-
 ## 📈 Key Analysis
 
 ### 🏆 Product with Highest Profit
@@ -67,7 +60,6 @@ Analyze relationships between numerical variables and profit.
 ---
 
 ## 📊 Interactive Dashboard
-Explore the Tableau dashboard:
 
 https://public.tableau.com/app/profile/chandra.julian.adhiyasa/viz/DashboardAnalisisProfitE-Commerce/StatisticalAnalysis2
 
