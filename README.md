@@ -1,11 +1,11 @@
- 🌍 Global E-Commerce Revenue Analysis
+ 🌍 Global E-Commerce Profit Analysis
 
 > End-to-end data analysis project to uncover profitability insights in global e-commerce
 
 ---
 
 ## 📌 About The Project
-This project analyzes **global e-commerce revenue and profitability data** to uncover key business insights.
+This project analyzes **global e-commerce Profit and profitability data** to uncover key business insights.
 
 The analysis covers the full workflow — from **data cleaning, exploratory data analysis (EDA), statistical analysis, to business recommendations**. The goal is to support data-driven decision-making by identifying key profit drivers.
 
